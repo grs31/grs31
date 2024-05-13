@@ -1,4 +1,4 @@
-Official collaborator of the project Portugol Studio, in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
+Official collaborator of the project Magic Studio, in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
 
 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I (UML), Software Project Management.
 
